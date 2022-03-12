@@ -26,7 +26,5 @@ Here's a walkthrough of implemented user stories:
 <<<<<<< HEAD
 <img src='https://i.imgur.com/zRU3zPj.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 =======
--![Sample Gif](https://imgur.com/AOi3OFf.gif)
 
-+<img src="/art/sample.gif?raw=true" width="200px">
 >>>>>>> a68a90d815f8269fd6d81749cadacbd7679d7e4f
