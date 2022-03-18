@@ -25,7 +25,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ZjQ5xUJ.gif' title='Video Walkthrough' width='250' alt='Video
+<img src='https://i.imgur.com/ZjQ5xUJ.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+
 
 **Twitter Clone** is a basic twitter app to read your tweets.
 
